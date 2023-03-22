@@ -5,10 +5,10 @@ metadata:
 spec:
   license:
     accept: true
-    license: L-APEH-CCHL5W
+    license: L-APEH-CJUCNR
     use: CloudPakForIntegrationNonProduction
   useCommonServices: true
-  version: 12.0.5.0-r2
+  version: 12.0.7.0-r4
   storage:
     type: ephemeral
   replicas: 1
